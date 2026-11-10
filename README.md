@@ -73,3 +73,14 @@ VLANs
 802.1Q Trunking
 
 Spanning Tree Protocol
+
+## Project Screenshots
+
+### Network Topology
+![Network Topology](Screenshot%202026-11-09%209.37.21%20PM.png)
+
+### EtherChannel Verification
+![EtherChannel Summary](Screenshot%202026-11-09%209.22.45%20PM.png)
+
+### Trunk Verification
+![Trunk Verification](Screenshot%202026-11-09%209.25.23%20PM.png)
